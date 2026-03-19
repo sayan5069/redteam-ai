@@ -2,6 +2,8 @@
 
 **[🔴 Live Demo Available Here](https://redteam-cka28p9gn-sayan-ghoshals-projects.vercel.app)**
 
+> **🚀 Status: v1.0 (Initial Release)** — This is the basic v1.0 launch! I am actively developing this tool and massive new updates/features are coming soon.
+
 A production-grade visual platform for testing AI systems against adversarial attacks. Built for students, researchers, and AI builders who need to identify vulnerabilities in their LLM-powered applications.
 
 RedTeam AI uses advanced AI models to generate realistic adversarial attack prompts based on the **MITRE ATLAS** framework and **OWASP Top 10 for LLMs (2025)**.
