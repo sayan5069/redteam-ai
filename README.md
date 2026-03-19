@@ -1,6 +1,6 @@
 # ⚔ RedTeam AI — LLM Red-Teaming Assistant
 
-**[🔴 Live Demo Available Here](https://your-vercel-link-here.vercel.app)**
+**[🔴 Live Demo Available Here](https://redteam-cka28p9gn-sayan-ghoshals-projects.vercel.app)**
 
 A production-grade visual platform for testing AI systems against adversarial attacks. Built for students, researchers, and AI builders who need to identify vulnerabilities in their LLM-powered applications.
 
