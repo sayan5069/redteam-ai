@@ -111,7 +111,9 @@ cp .env.example .env
 npm run dev
 ```
 
-The app will be available at `http://localhost:5173`.
+The app will be available locally at `http://localhost:5173`.
+
+**Live Production App:** [https://redteam-cka28p9gn-sayan-ghoshals-projects.vercel.app](https://redteam-cka28p9gn-sayan-ghoshals-projects.vercel.app)
 
 ---
 
